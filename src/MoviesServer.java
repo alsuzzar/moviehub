@@ -29,5 +29,4 @@ class MoviesServer {
     public void clearStore() {
         moviesStore.clearMovieStore();
     }
-
 }
